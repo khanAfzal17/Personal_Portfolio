@@ -75,7 +75,6 @@ img{
     transform: scale(1.1);
     transition: 1s;
     box-shadow: 5px 5px 2px black;
-    
 }
 .card:hover .servicesIcon {
     color: #008000;
